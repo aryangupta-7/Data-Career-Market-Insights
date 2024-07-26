@@ -95,7 +95,7 @@ plt.show()
 
 # Results
 
-![Visualization](Images\output.png)
+![Visualization](Images/output.png)
 
 Bar graph visualizing the salary for the top 3 data roles and their top 5 skills associated with each.
 
@@ -127,7 +127,7 @@ plt.show()
 
 # Results
 
-![Visualization](Images\3_output.png)
+![Visualization](Images/3_output.png)
 
 Bar graph visualizing the trending top skills for data analysts in India in 2023.
 
@@ -153,7 +153,7 @@ plt.show()
 
 # Results
 
-![Visualization](Images\4_output.png)
+![Visualization](Images/4_output.png)
 
 Box plot visualizing the salary distributions for the top 6 data job titles.
 
@@ -183,7 +183,8 @@ plt.show()
 # Results
 Here's the breakdown of the highest-paid & most in-demand skills for data analysts in India:
 
-![Visualization](Images\4_output(2).png)
+![Visualization](Images/4_output(2).png)
+
 Two separate bar graphs visualizing the highest paid skills and most in-demand skills for data analysts in India.
 
 # Insights:
@@ -209,7 +210,8 @@ plt.show()
 ```
 
 **Results**
-![Visualization](Images\5_output.png)
+
+![Visualization](Images/5_output.png)
 
 A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in India.
 
@@ -239,7 +241,8 @@ plt.show()
 ```
 
 **Results**
-![Visualization](C:\Users\acer\Desktop\Project\Images\5_output2.png)
+
+![Visualization](Images/5_output2.png)
 
 A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in the US with color labels for technology.
 
