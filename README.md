@@ -239,7 +239,7 @@ plt.show()
 ```
 
 **Results**
-![Visualization](Images\5_output2.png)
+![Visualization](C:\Users\acer\Desktop\Project\Images\5_output2.png)
 
 A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in the US with color labels for technology.
 
